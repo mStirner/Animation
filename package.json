@@ -1,0 +1,10 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "keywords": ["util", "functional", "server", "client", "browser"],
+  "author": "marc",
+  "contributors": [],
+  "dependencies": {}, "scripts":{
+"start":"node index.js"}
+
+}
